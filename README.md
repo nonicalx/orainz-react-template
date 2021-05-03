@@ -1,4 +1,4 @@
 # Orainz react app template
 
-npx create-react-app <appName> cra-template-orainz
+npx create-react-app <appName> --template cra-template-orainz
 
